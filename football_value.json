@@ -2,15 +2,15 @@
   "schema_version": "1.0",
   "engine_version": "V24.3",
   "source_engine": "Football Betting Bot V23",
-  "run_id": "20260904_173400",
-  "updated_utc": "2026-09-04T17:37:35.383686+00:00",
+  "run_id": "20260904_174741",
+  "updated_utc": "2026-09-04T17:51:48.704010+00:00",
   "real_betting": false,
   "automatic_betting": false,
   "final_betting_decision": "USER",
   "status": "COMPLETE",
   "summary": [
     {
-      "Run_ID": "20260904_173400",
+      "Run_ID": "20260904_174741",
       "Version": "V27.9.5",
       "Season": "2026/27",
       "Fixtures": 21,
@@ -1274,7 +1274,7 @@
   "feed": {
     "schema_version": "1.0",
     "publisher_version": "V24.45",
-    "updated_utc": "2026-09-04T17:37:35.383686+00:00",
+    "updated_utc": "2026-09-04T17:51:48.704010+00:00",
     "source": "Google Colab production run",
     "repository": "LTWalsheh/football-value-data",
     "file": "football_value.json",
@@ -1289,7 +1289,7 @@
     "recommended_bets_are_display_only": true,
     "automatic_betting": false,
     "real_betting": false,
-    "sha256": "419d207dd0f1f64daf92d797a4128cc59efd76a1630228cda8ee0f76449658f1"
+    "sha256": "8d9763ff8891fc842e06d04f8f3a3be896e42f54b9a4a5b25d846a90e7f966f9"
   },
   "app_readiness": {
     "status": "READY",
